@@ -62,7 +62,7 @@ python pose_classification.py
 ## 📁 Project Structure
 ```
 ├── pose_detection_real_time.py         # Main script
-├── your_video.mp4                # Input video
+├── my_vid1.mp4                # Input video
 ├── output_pose_classification.mp4 # Output annotated video
 ```
 
